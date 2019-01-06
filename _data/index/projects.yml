@@ -1,0 +1,23 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Who is doing what?
+  i18n: Who is doing what?
+  gh_user: AayushMandhyan
+  repo: Who-is-doing-what-twitter
+  img: /static/assets/img/landing/twitter.png
+  desc: As we all know, one of the biggest evolution of 21st Century is Social Media. It has gradually infiltrated our daily lifestyles. Be it Facebook, Twitter, Instagram, etc. People will find their friends, family or a complete strangers to connect and share their experiences with. This has given people the freedom, to express themselves to much wider audience than ever before in the history of Mankind. Social Media has bestowed us with a platform where people from different cultural backgrounds can socialize and be the part of Globally Acknowledged Citizen Movement. Who’s doing what and what should we do to be the part of the trend is the question which is chasing us for centuries? We answer these question by predicting trending topics on one of the biggest social network “Twitter”.
+
+- name: Statistics Assignments!
+  i18n: Statistics Assignments!
+  gh_user: AayushMandhyan
+  repo: Statistics-Assignment
+  img: /static/assets/img/landing/statistics.jpg
+  desc: Collection of assignments done in Class STAT:581 Probability & Statistics for Data Science at Rutgers. Assignments - 1) Fit distribution on Category 4 & 5 Atlantic Hurricane Data, 2) Method of Moments Estimator, 3) Bootstrap & Jacknife Simulation, 4) Maximum Likelihood Estimator, 5) Bayes estimates & plots of the posterior distribution, 6)Final Project - To find the cancers which either over express or under express in the cancer and do further analysis, using NCI60 dataset. 
+
+- name: Recommendation System
+  i18n: Recommendation System
+  gh_user: AayushMandhyan
+  repo: Anime-Recommendation-System
+  img: /static/assets/img/landing/recommendation.png
+  desc: People are looking for recommendations all the time. Be it, which movie to watch next or which book to read or which song to listen and so on. In todays world, technology has given us recommendation systems which provides users with personalized recommendation such as Netflix for Movies, Spotify for music, etc. So I learnt to build one of my own, this recommendation system recommends Anime to the user, its based on the Kaggle Competition data set and uses User-User based Collaborative filtering to recommend Ainme’s.
