@@ -13,31 +13,59 @@
     detail: Graduate Student
     i18n: company_a_job
   icon: fa-plus-square
-
+  
 - name:
-    detail: Cognizant 
-    i18n: company_b
+    detail: Exafluence Inc.
+    i18n: company_a
   desc:
-    detail: Worked on various Data Science Technologies in the Technology Divsion, such as 1) Using Time Series analytics to predict future utilization of Openstack Cloud Resources, 2) Openstack Cloud Data Extraction & Storage tool, 3) Tool to reduce count of Video Frames. Prototype created for 1) Face and Object detection in images, 2) Obejct Tracking in videos, 3) Question Answering Model. 
-    i18n: company_b_desc
+    detail: Worked on building Anomaly Detection System to detect anomalous change in CMS NPI dataset. 
+    i18n: company_a_desc
   date:
-    detail: October 2017
-    i18n: company_b_date
+    detail: February 2020 - May 2020
+    i18n: company_a_date
   job:
-    detail: Product Engineer - Data Science 
-    i18n: company_b_job
+    detail: Data Scientist Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Rutgers University - New Brunswick
+    i18n: company_a
+  desc:
+    detail: Worked on building GPU based modules for Adaptive Real Time Machine Learning Platform (ARTML). Also optimized CPU based modules for faster performance.
+    i18n: company_a_desc
+  date:
+    detail: May 2019 - September 2019
+    i18n: company_a_date
+  job:
+    detail: Research Intern
+    i18n: company_a_job
   icon: fa-plus-square
   
 - name:
     detail: Cognizant 
+    i18n: company_b
+  desc:
+    detail: Worked on Machine Learning projects including - Time Series Analytics and Computer Vision. Also deployed and administered Openstack Cloud Platform on Ubuntu Servers.
+    i18n: company_b_desc
+  date:
+    detail: August 2016 - May 2018
+    i18n: company_b_date
+  job:
+    detail: Programmer Analyst
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: SRM University 
     i18n: company_c
   desc:
-    detail: I was responsible for Deploying, Maintaining, Troubleshooting & Administering Openstack Private Cloud Platform for various teams in Technology Vertical. Futhermore, have undertaken a Proof of Concept of High Avilability of Openstack Cloud. Apart from Openstack I have exposure of other public cloud platforms such as - Amazon Web Services, Azure and Google Cloud Platform. 
+    detail: Graduated from SRM University with a Bachelor's of Technology in Computer Science and Engineering with 8.0 CGPA (out of 10). With skills in general programming, data structures and fundamentals of Computer Science. Also built an Eye Blink Counter Application on Andriod platform as my Final Year Project, this application was built to detect and keep track of human eye blink using Mobile front camera. 
     i18n: company_c_desc
   date:
-    detail: August 2016
+    detail: August 2012 - May 2016
     i18n: company_c_date
   job:
-    detail: Cloud Manager
+    detail: Student
     i18n: company_c_job
   icon: fa-plus-square
