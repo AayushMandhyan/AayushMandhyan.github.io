@@ -5,7 +5,7 @@
   i18n: Stock Trading Agent(RL)
   gh_user: AayushMandhyan
   repo: Stock-Trading-Agent
-  img: /static/assets/img/landing/rl agent.png
+  img: /static/assets/img/landing/rlagent.png
   desc: As a Data Science Master's student at Rutger's University. I took upon an Independent Study under the guidance of Professor Charles W. Cowan (a great mentor). The goal of this study was to design and develop a Stock Trading Agent using Reinforcement Learning techniques which earn's reward/profit at the end of a time interval.
 
 - name: Data Visualization Project: AirBnb Analytics
