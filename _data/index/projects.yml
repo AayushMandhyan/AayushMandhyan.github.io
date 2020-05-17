@@ -22,19 +22,19 @@
   img: /static/assets/img/landing/anomaly.jpg
   desc: Designed and Developed a demo application in RShiny for Anomaly Detection System. Which detects anomalous behavious in change in CMS NPI dataset.
 
-- name: Colgate Data Challenge (HackRU-2019)
-  i18n: Colgate Data Challenge (HackRU-2019)
-  gh_user: AayushMandhyan
-  repo: hackru-f19
-  img: /static/assets/img/landing/colgate.png
-  desc: We won the Colgate Data Challenge at HackRU-2019. The Problem Statement was to accurately predict unit sales price of a product by using its brand, location, ingredients, etc.   
-
 - name: Data Wrangling Project - Beer Dataset
   i18n: Data Wrangling Project - Beer Dataset
   gh_user: AayushMandhyan
   repo: Data-Wrangling-Beer-Dataset
   img: /static/assets/img/landing/beer.jpg
   desc: Covid-19 The first dataset which comes into one’s mind in today’s time, is very important but we are already looking at its analysis on the news like 10 times a day. Which made me think in the opposite direction and seek datasets which can be challenging as well as fun at the same time to display my skills gained in R. It reminded me of last year’s spring break, me and my friends took a road trip South. Towards Virginia, North Carolina to enjoy the best nature had to offer i.e. “The Smoky Mountains”. And taste different varieties of beer we could come across. During this trip we would stop to seek out famous local breweries and try different varieties of beer they had to offer. The process would always be to seek out breweries, in the area we were in, via the internet or through recommendation by locals; and learn about their types of beers, ratings and so on before visiting the place out. Now thinking back to those times I wanted to take a data Scientist approach to the same questions and seek answers using beer data sets.
+
+- name: Colgate Data Challenge (HackRU-2019)
+  i18n: Colgate Data Challenge (HackRU-2019)
+  gh_user: AayushMandhyan
+  repo: hackru-f19
+  img: /static/assets/img/landing/colgate.png
+  desc: We won the Colgate Data Challenge at HackRU-2019. The Problem Statement was to accurately predict unit sales price of a product by using its brand, location, ingredients, etc.   
   
 - name: Who is doing what?
   i18n: Who is doing what?
