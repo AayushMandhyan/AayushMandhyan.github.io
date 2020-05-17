@@ -8,8 +8,8 @@
   img: /static/assets/img/landing/rlagent.png
   desc: As a Data Science Master's student at Rutger's University. I took upon an Independent Study under the guidance of Professor Charles W. Cowan (a great mentor). The goal of this study was to design and develop a Stock Trading Agent using Reinforcement Learning techniques which earn's reward/profit at the end of a time interval.
 
-- name: Data Visualization Project: AirBnb Analytics
-  i18n: Data Visualization Project: AirBnb Analytics
+- name: Data Visualization Project - AirBnb Analytics
+  i18n: Data Visualization Project - AirBnb Analytics
   gh_user: AayushMandhyan
   repo: AirbnbAnalytics
   img: /static/assets/img/landing/airbnb.png
@@ -22,8 +22,8 @@
   img: /static/assets/img/landing/anomaly.jpg
   desc: Designed and Developed a demo application in RShiny for Anomaly Detection System. Which detects anomalous behavious in change in CMS NPI dataset.
   
-- name: Data Wrangling Project: Beer Dataset
-  i18n: Data Wrangling Project: Beer Dataset
+- name: Data Wrangling Project - Beer Dataset
+  i18n: Data Wrangling Project - Beer Dataset
   gh_user: AayushMandhyan
   repo: Data-Wrangling-Beer-Dataset
   img: /static/assets/img/landing/beer.jpg
