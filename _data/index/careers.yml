@@ -4,10 +4,10 @@
     detail: Rutgers University - New Brunswick
     i18n: company_a
   desc:
-    detail: I am a Graduate Student at Rutgers, majoring in Data Science. This Fall I have worked on different Statistics Assignments, built an Anime Recommendation System and worked on Massive Data Project - to predict Topics of future conversation on Twitter.
+    detail: Graduated from Rutgers University with a Master's Degree in Computer Science - Data Science, with 3.75 GPA (out of 4). With skillset including Deep Learning, Machine Learning, Reinforcement Learning, Natural Language Processing, Computer Vision, Data Visualization and Predictive Modelling.
     i18n: company_a_desc
   date:
-    detail: September 2018
+    detail: September 2018 - May 2020
     i18n: company_a_date
   job:
     detail: Graduate Student
